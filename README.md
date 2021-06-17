@@ -1,7 +1,6 @@
-### shell学习的笔记
+# shell学习的笔记
 
 1.通过使用$[@]输出列表中的值
-====
 ```
 [root@localhost ~]# cat a.sh 
 #!/bin/bash
